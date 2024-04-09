@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ZVna2KXZ9uruSto+yLhEj2s5FdyH496F2+FcQCLEqZQ=",
+  "Source": "ProductApi",
+  "BasePath": "_content/ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductApi\\wwwroot",
+      "Source": "ProductApi",
+      "ContentRoot": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\wwwroot\\script.js",
+      "SourceId": "ProductApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\wwwroot\\",
+      "BasePath": "_content/ProductApi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    }
+  ]
+}

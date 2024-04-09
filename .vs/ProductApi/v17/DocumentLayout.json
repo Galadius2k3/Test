@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\model\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\model\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\model\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\model\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|c:\\users\\hi hi\\desktop\\productapi\\productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{979CD339-2037-49CC-912C-D7F93B0279CC}|ProductApi\\ProductApi.csproj|solutionrelative:productapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "ProductApi\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\wwwroot\\script.js",
+              "RelativeToolTip": "ProductApi\\wwwroot\\script.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-07T18:20:05.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Model\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Model\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Model\\ProductRepository.cs",
+              "RelativeToolTip": "ProductApi\\Model\\ProductRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:46:46.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Controllers\\ProductApiController.cs",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "ProductApi\\Controllers\\ProductApiController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:15:31.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductApi",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\ProductApi.csproj",
+              "RelativeDocumentMoniker": "ProductApi\\ProductApi.csproj",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\ProductApi.csproj",
+              "RelativeToolTip": "ProductApi\\ProductApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T19:09:24.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Program.cs",
+              "RelativeToolTip": "ProductApi\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:04:13.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\appsettings.json",
+              "RelativeToolTip": "ProductApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T18:08:13.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\appsettings.Development.json",
+              "RelativeToolTip": "ProductApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T18:57:43.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Model\\Product.cs",
+              "RelativeToolTip": "ProductApi\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:43:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Model\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Model\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductApi\\Model\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:54:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Model\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApi\\Model\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Model\\IProductRepository.cs",
+              "RelativeToolTip": "ProductApi\\Model\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T17:45:35.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hi Hi\\Desktop\\ProductApi\\ProductApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T18:23:27.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
